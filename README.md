@@ -32,4 +32,4 @@ npx tree-sitter-cli@0.25.10 test
 
 ## Licence
 
-GPLv3: see `LICENSE`.
+tree-sitter-logo is under the GNU General Public License, version 3 or later: see `LICENSE`.
